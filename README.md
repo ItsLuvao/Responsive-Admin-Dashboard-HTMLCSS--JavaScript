@@ -1,0 +1,2 @@
+It's a Responsive Admin Dashboard that uses HTML and CSS, I learned how to do it in the tutorial of this channel below, I'm still going to try to do something behind it but the video is below the tutorial https://www.youtube.com/watch ?v=BOF79TAIkYQ&t=3675s
+É um Responsive Admin Dashboard que usa HTML e CSS, aprendi a fazer no tutorial desse canal ai abaixo, ainda vou mexer tentar fazer algo por trás disso mas o video ta ai em baixo do tutorial https://www.youtube.com/watch ?v=BOF79TAIkYQ&t=3675s
